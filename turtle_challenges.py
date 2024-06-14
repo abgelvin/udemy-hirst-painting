@@ -67,8 +67,6 @@ def draw_spirograph():
 
 
 
-
-
 # draw_square()
 # draw_dashed_line()
 # draw_shapes()
