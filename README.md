@@ -1,0 +1,1 @@
+# takes colors from image.jpg and uses them to create dot painting 10x10 dots
